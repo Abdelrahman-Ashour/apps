@@ -7,7 +7,7 @@ import pandas as pd
 
 # Load dataset
 file_path = 'C:\\Users\\LEADER\\Downloads\\startup_projects.csv'
-df = pd.read_csv(file_path)
+df = pd.read_csv('C:\\Users\\LEADER\\Downloads\\startup_projects.csv')
 
 # Encode categorical data
 le_field = LabelEncoder()

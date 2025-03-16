@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
 
 # إعداد الصفحة
-st.set_page_config(page_title="Startup Idea Finder", layout="wide")
+st.set_page_config(page_title="🤖 IDEA.AI", layout="wide")
 
 st.title("🤖 IDEA.AI")
 st.write("إبحث عن أفضل فكرة لمشروع ناشئ بناءً على مهاراتك وميزانيتك ومستوى المنافسة.")

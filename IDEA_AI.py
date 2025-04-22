@@ -10,7 +10,7 @@ import plotly.express as px
 st.set_page_config(page_title="🤖 IDEA.AI", layout="wide")
 
 # اللوجو
-st.image("image\IDEA_AI.png", width=200)
+st.image("image/IDEA_AI.png", width=200)
 st.title("IDEA.AI")
 st.caption("START SMART")
 
